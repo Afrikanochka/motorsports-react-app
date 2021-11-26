@@ -1,0 +1,45 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--color-secondary-400);
+}
+.logoSvg {
+    width: 139px;
+    height: 35px;
+    margin-top: 19px;
+    margin-left: 100px;
+}
+.navigation {
+    display: flex;
+}
+.navigationList {
+    display: flex;
+}
+.navigationItem {
+    margin-top: 25px;
+    margin-right: 40px;
+}
+.navigationLink {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.33;
+    color: var(--color-primary-200);
+}
+.socialList {
+    display: flex;
+}
+.socialItem {
+    margin-top: 24px;
+}
+.socialItem:not(:last-child) {
+    margin-right: 24px;
+}
+.socialSvgF {
+    width: 18px;
+    height: 18px;
+}
+.socialSvgIn {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
