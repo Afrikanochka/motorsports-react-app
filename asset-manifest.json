@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/motorsports-react-app/static/css/main.33c5c3e4.chunk.css",
+    "main.js": "/motorsports-react-app/static/js/main.6e83035a.chunk.js",
+    "main.js.map": "/motorsports-react-app/static/js/main.6e83035a.chunk.js.map",
+    "runtime-main.js": "/motorsports-react-app/static/js/runtime-main.5c4b702b.js",
+    "runtime-main.js.map": "/motorsports-react-app/static/js/runtime-main.5c4b702b.js.map",
+    "static/css/2.383c0125.chunk.css": "/motorsports-react-app/static/css/2.383c0125.chunk.css",
+    "static/js/2.f7c584b5.chunk.js": "/motorsports-react-app/static/js/2.f7c584b5.chunk.js",
+    "static/js/2.f7c584b5.chunk.js.map": "/motorsports-react-app/static/js/2.f7c584b5.chunk.js.map",
+    "index.html": "/motorsports-react-app/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/motorsports-react-app/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.33c5c3e4.chunk.css.map": "/motorsports-react-app/static/css/main.33c5c3e4.chunk.css.map",
+    "static/js/2.f7c584b5.chunk.js.LICENSE.txt": "/motorsports-react-app/static/js/2.f7c584b5.chunk.js.LICENSE.txt",
+    "static/media/hero.scss": "/motorsports-react-app/static/media/bg-img.de98e063.jpg",
+    "static/media/cardList.scss": "/motorsports-react-app/static/media/img4.e5b407fb.png",
+    "static/media/popularQuestions.scss": "/motorsports-react-app/static/media/plus.91f8aa03.svg",
+    "static/media/sprite.c6576ed8.svg": "/motorsports-react-app/static/media/sprite.c6576ed8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c4b702b.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.f7c584b5.chunk.js",
+    "static/css/main.33c5c3e4.chunk.css",
+    "static/js/main.6e83035a.chunk.js"
+  ]
+}
