@@ -1,0 +1,29 @@
+.sortContainer {
+    display: flex;
+    justify-content: space-between;
+}
+.checkInput {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.33;
+    color: var(--color-secondary-200);
+}
+.sortBy {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.33;
+    color: var(--color-primary-100);
+}
+.sortSvg {
+    width: 13px;
+    height: 13px;
+    margin-left: 16px;
+    margin-right: 8px;
+}
+.sortText {
+    color: var(--color-secondary-200);
+}
+.form-check-input:checked {
+    border-color: var(--color-primary-300);
+    background-color: var(--color-primary-300);
+}

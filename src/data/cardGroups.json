@@ -1,0 +1,36 @@
+[
+    {
+        "id": "id-1",
+        "year": "2019",
+        "image": "https://ibb.co/HYf8Z8V",
+        "make": "Volkswagen Tiguan",
+        "mileage": "19,855 km",
+        "fuel": "Diesel",
+        "price": "$34,888" 
+    },
+    {
+        "id": "id-2",
+        "year": "2014",
+        "make": "Toyota Highlander XLE",
+        "mileage": "27,875 km",
+        "fuel": "Gas",
+        "price": "$27,875" 
+    },
+    {
+        "id": "id-3",
+        "year": "2017",
+        "make": "Lexus RX 350 LUXURY",
+        "mileage": "39,850 km",
+        "fuel": "Gas",
+        "price": "$38,775" 
+    },
+    {
+        "id": "id-4",
+        "year": "2016",
+        "make": "Toyota Highlander LE A",
+        "mileage": "104,000 km",
+        "fuel": "Gas",
+        "price": "$23,728" 
+    }
+  
+]

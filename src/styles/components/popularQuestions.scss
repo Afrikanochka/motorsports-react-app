@@ -1,0 +1,17 @@
+.accordion-button::after {
+    background-image: url('../../images/plus.svg');
+}
+.questionTitle {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 1.5;
+    text-transform: uppercase;
+    color: var(--color-secondary-100);
+    text-align: center;
+}
+.accordion-button:not(.collapsed) {
+    color: #DF4E3C;
+}
+.accordion-button:not(.collapsed)::after {
+    background-image: url('../../images/minus.svg'); 
+}

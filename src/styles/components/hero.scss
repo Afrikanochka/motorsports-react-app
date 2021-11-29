@@ -1,11 +1,12 @@
-.hero {
+.bgImg {
+    width: 100%;
+    overflow: hidden;
     background-image: url('../../images/bg-img.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    padding-top: 118px;
-    padding-bottom: 118px;
     margin: 0 auto;
+    margin-bottom: 100px;
 }
 .heroTitle {
     font-weight: 700;
@@ -37,4 +38,10 @@
     font-size: 20px;
     line-height: 1.35;
     color: var(--color-primary-200);
+    margin-bottom: 146px;
+}
+.heroBtn:hover, .heroBtn:focus {
+    color: var(--color-primary-100);
+    background-color: var(--color-primary-200);
+    border: 2px solid #F8F8F8;
 }
